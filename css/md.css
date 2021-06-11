@@ -72,7 +72,6 @@ header .nav-link:hover {
 
 .carousel-caption p{
 
-  margin: auto;
   font-size: 14px;
   line-height: 1.9;
 
@@ -579,7 +578,17 @@ font-size: 19px;
     transition: all 1.5s ease;
   }
   
-
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 20px;
+    left: 15%;
+    z-index: 10;
+    /* padding-top: 20px; */
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
 
 .carousel-caption h5{
   font-size: 18px;
