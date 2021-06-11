@@ -91,6 +91,10 @@ header .nav-link:hover {
 }
 
 
+.carousel-item img{
+  height: 100vh;
+
+}
 
 
 /********** section 2 **************/
