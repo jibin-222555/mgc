@@ -585,13 +585,13 @@ font-size: 19px;
   font-size: 18px;
   text-transform: uppercase;
   
-  margin-top: 25px;
+
 }
 .carousel-caption h1{
-  font-size: 28px;
+  font-size: 25px;
   text-transform: uppercase;
   
-  margin-top: 10px;
+
 }
 .carousel-caption a{
   text-transform: uppercase;
@@ -599,7 +599,7 @@ font-size: 19px;
   padding: 10px 30px;
   display: inline-block;
 
-  margin-top: 15px;
+
     font-size: 12px;
   
 }
