@@ -89,20 +89,7 @@ header .nav-link:hover {
   background: linear-gradient(rgb(7, 131, 202), rgb(13, 218, 233));
   color: white;
 }
-.carousel-inner{
-  height: 100vh;
-}
-.carousel-item{
-  height: 100vh;
-  min-height: 300px;
-  background: no-repeat ;
-  background-size: cover;
-  -webkit-background-size:cover;
-}
-.carousel-item img{
-  height: 100vh;
 
-}
 
 
 
